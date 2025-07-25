@@ -14,14 +14,14 @@ Upload your swing video → it extracts your body pose → compares your key ang
 
 ## 🚀 How to Run
 
-**1. Clone the repo:**
+# **1. Clone the repo:**
 ```bash
-git clone https://github.com/yourusername/golf_swing_analyzer.git
-cd golf_swing_analyzer
+  git clone https://github.com/yourusername/golf_swing_analyzer.git
+  cd golf_swing_analyzer
 
-**2. Install dependencies:**
-pip install -r requirements.txt
+# **2. Install dependencies:**
+  pip install -r requirements.txt
 
-**3. Run the app:**
-streamlit run app.py
-Open your browser → upload your golf swing video!
+ #**3. Run the app:**
+  streamlit run app.py
+  Open your browser → upload your golf swing video!

@@ -1,0 +1,1 @@
+ # Dependencies (mediapipe, streamlit, numpy)
